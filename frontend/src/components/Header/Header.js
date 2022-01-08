@@ -17,7 +17,7 @@ const Header = () => {
         <div class="header">
             <a href="#default" class="logo">CompanyLogo</a>
             <div class="header-right">
-                {/* <a class="active" href="#home">HELLO ADMIN</a> */}
+                {/* <a class="active" href="#home">University of California</a> */}
                 <button className="logout" onClick={logoutHandler}>LOG OUT</button>
                 {/* <a href="#contact">Contact</a>
                 <a href="#about">About</a> */}
